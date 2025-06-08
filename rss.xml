@@ -4,5 +4,5 @@
     <title>Your Pinterest Feed</title>
     <link>https://yourwebsite.com</link>
     <description>This RSS feed powers Pinterest auto-pins.</description>
-  <item><title>Daily Quote</title><link>https://yourwebsite.com/your-page</link><description>&lt;![CDATA["Nothing makes a man broad-minded like adversity." — Will Rogers]]&gt;</description><media:content url="https://nadavmb.github.io/pinterest-rss/images/quote_20250608145344.jpg" medium="image" /><pubDate>Sun, 08 Jun 2025 14:53:44 GMT</pubDate></item></channel>
+  <item><title>Daily Quote</title><link>https://yourwebsite.com/your-page</link><description>&lt;![CDATA["Nothing makes a man broad-minded like adversity." — Will Rogers]]&gt;</description><media:content url="https://nadavmb.github.io/pinterest-rss/images/quote_20250608145344.jpg" medium="image" /><pubDate>Sun, 08 Jun 2025 14:53:44 GMT</pubDate></item><item><title>Daily Quote</title><link>https://yourwebsite.com/your-page</link><description>&lt;![CDATA["Never buy a thing you do not want, because it is cheap, it will be dear to you." — Thomas Jefferson]]&gt;</description><media:content url="https://nadavmb.github.io/pinterest-rss/images/quote_20250608145721.jpg" medium="image" /><pubDate>Sun, 08 Jun 2025 14:57:21 GMT</pubDate></item></channel>
 </rss>
