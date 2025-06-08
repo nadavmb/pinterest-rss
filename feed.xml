@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Daily Quotes</title>
+<link>https://yourwebsite.com</link>
+<description>Auto Pinterest RSS Feed</description>
+<item><title>Daily Quote</title><link>https://yourwebsite.com/your-page</link><description>&lt;![CDATA["Words are the clothing of our thoughts." — Jonathan Swift]]&gt;</description><media:content url="https://nadavmb.github.io/pinterest-rss/images/quote_20250608145139.jpg" medium="image" /><pubDate>Sun, 08 Jun 2025 14:51:39 GMT</pubDate></item></channel>
+</rss>
