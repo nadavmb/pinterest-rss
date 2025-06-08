@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Your Pinterest Feed</title>
     <link>https://yourwebsite.com</link>
     <description>This RSS feed powers Pinterest auto-pins.</description>
-  </channel>
+  <item><title>Daily Quote</title><link>https://yourwebsite.com/your-page</link><description>&lt;![CDATA["Nothing makes a man broad-minded like adversity." — Will Rogers]]&gt;</description><media:content url="https://nadavmb.github.io/pinterest-rss/images/quote_20250608145344.jpg" medium="image" /><pubDate>Sun, 08 Jun 2025 14:53:44 GMT</pubDate></item></channel>
 </rss>
